@@ -18,7 +18,6 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "marked": "0.2.9",
     "vinyl-fs": "0.3.7",
     "gulp-util": "3.0.0",
     "extend": "1.3.0",
